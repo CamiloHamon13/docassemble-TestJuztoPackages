@@ -1,5 +1,5 @@
 ---
-question: What kind of car do you want?
+question: Que tipo de carro es el tuyo?
 buttons:
   - Ford Focus:
       code: |
